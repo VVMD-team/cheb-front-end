@@ -678,7 +678,6 @@ a {
 }
 
 .button.dextools {
-    pointer-events: none;
     padding: 1.25rem 2.03125rem 1.5rem;
     position: absolute;
     top: .5625rem;
